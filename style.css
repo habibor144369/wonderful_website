@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ h1{
+     margin-top: 50px;
+ }
+ .alert-heading{
+     color: brown;
+ }
+ span p{
+     color: rgb(53, 92, 117);
+ }
+ .facebook{
+
+margin-bottom:3% ;
+margin-top: 3%;
+}
+
+.facebook a{ 
+padding:12px ;
+margin-left:1% ;
+font-size: 30px;
+text-decoration: none;
+background-color: rgb(230, 178, 204);
+border-radius: 7px;
+font-weight: 700;
+}
+.Instagram a{
+padding: 12px;
+font-size:30px ;
+text-decoration: none;
+background-color:rgb(230, 178, 204);
+border-radius: 7px;
+margin-top: 10%;
+font-weight: 700;
+}
+.Instagram{
+
+margin-left: 1%;
+margin-bottom:3% ;
+margin-top: 3%;
+}

@@ -41,3 +41,50 @@ margin-left: 1%;
 margin-bottom:3% ;
 margin-top: 3%;
 }
+.container{
+    color: rgb(90, 132, 138);
+    background-color: rgb(225, 240, 247);
+    padding: 30px;
+    box-shadow:10px 10px 30px;
+    border-radius: 20px;
+    
+}
+.col-sm-3{
+    box-shadow:10px 10px 30px;
+    padding: 20px;
+    border-radius:20px;
+}
+.jumbotron{
+    box-shadow:2px 2px 20px;
+    padding: 20px;
+    border-radius:20px;
+}
+.alert-heading{
+    box-shadow:2px 2px 20px;
+    padding: 20px;
+    border-radius:20px;
+}
+.card{
+    box-shadow:10px 10px 40px;
+    padding: 0px;
+    border-radius:20px;
+}
+.card-footer{
+    box-shadow:10px 10px 40px;
+    padding: 0px;
+    border-radius:20px;
+}
+.display-4{
+    color: rgb(226, 96, 96);
+    font-weight: bold;
+}
+.lead{
+    color: rgb(69, 161, 214);
+    font-weight: bold;
+}
+.my-4 p{
+    color: rgb(243, 128, 128);
+}
+span{
+    color: rgb(236, 112, 112);
+}
